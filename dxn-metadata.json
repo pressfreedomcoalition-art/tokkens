@@ -1,0 +1,7 @@
+{
+  "name": "Death Note",
+  "symbol": "DXN",
+  "decimals": 9,
+  "description": "DXN is the DAO governance token of DeathNote.Rip on The Open Network. Token crediting and DAO governance of the project are executed through smart contracts. When a listed object is confirmed completed through the court-records verification API, the confirmer receives 1 DXN in addition to the existing bounty: a share of the common reward pool plus the amount accumulated on that object.",
+  "image": "https://raw.githubusercontent.com/pressfreedomcoalition-art/tokkens/main/dxn-token.png"
+}
