@@ -1,0 +1,10 @@
+name: Coalition Capital Coin
+description: Coalition Capital Coin (CCC) is the utility and governance token of the Freedom Coalition. CCC coordinates Coalition processes and is exchangeable for national tokens of Coalition member blockchain states. Total supply 10,000,000 CCC.
+image: "https://raw.githubusercontent.com/pressfreedomcoalition-art/tokkens/main/ccc-token.png"
+address: 0:PENDING_MINT
+symbol: CCC
+decimals: 9
+websites:
+  - "https://freedomcoalition.net"
+social:
+  - "https://t.me/convent_coalition"
