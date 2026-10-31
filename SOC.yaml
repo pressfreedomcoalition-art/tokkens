@@ -2,7 +2,7 @@ name: Shadow Operations Council
 symbol: SOC
 decimals: 9
 # filled after deploy
-address: 
+address: 0:c6eb9c26aabd3b717c78a222e16acae01c82cac424ff4ad177ad1753f70ef38f
 description: |
   Shadow Operations Council (SOC) brings together Coalition special units to run joint operations as one body: shared strategy, interaction protocols, and each side's strengths. An organization's weight in the DAO depends on the weight of tokens issued for successful operations. Forces that have shown they can work toward the common cause may join. SOC is the governance token of the Council's DAO on TON.
 image: https://raw.githubusercontent.com/pressfreedomcoalition-art/tokkens/main/soc-token.jpg
